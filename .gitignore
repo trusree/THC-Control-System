@@ -1,0 +1,11 @@
+system.db
+
+*.exe
+
+thc-control-*
+
+*.log
+
+.DS_Store
+
+/dist
