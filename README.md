@@ -30,13 +30,6 @@ Use either:
 - Web Interface (`http://localhost:8080`)
 - Command Line Interface (CLI)
 
-### Privacy-Focused Build
-Compiled as a static binary with stripped metadata:
-- `-trimpath`
-- `-ldflags="-s -w"`
-
----
-
 ## Installation
 
 ### Download Binary
