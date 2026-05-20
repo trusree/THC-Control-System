@@ -37,23 +37,17 @@ Compiled as a static binary with stripped metadata:
 
 ---
 
-# Installation
+## Installation
 
-## Download Binary
+### Download Binary
 
-Download the latest release for your operating system from:
+Download the latest release for your operating system:
 
-`https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases`
-
-Replace:
-- `YOUR_USERNAME`
-- `YOUR_REPOSITORY`
-
-with your actual GitHub username and repository name.
+`https://github.com/trusree/THC-Control-System/releases`
 
 ---
 
-# Linux / macOS
+## Linux / macOS
 
 Grant execution permission:
 
