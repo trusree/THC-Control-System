@@ -44,12 +44,3 @@ Compiled as a static binary with stripped metadata:
 Download the latest release for your operating system:
 
 `https://github.com/trusree/THC-Control-System/releases`
-
----
-
-## Linux / macOS
-
-Grant execution permission:
-
-```bash
-chmod +x thc-control-*
